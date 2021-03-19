@@ -1,3 +1,3 @@
 # 30day
  
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/GowthamSk1/30day/blob/master/30day_new.gif)
